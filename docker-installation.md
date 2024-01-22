@@ -1,2 +1,0 @@
-# Docker Instalation Method
-
